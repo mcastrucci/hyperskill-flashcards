@@ -1,0 +1,31 @@
+# Cards texts
+CARD_TEXT = 'Card:'
+DEFINITION_TEXT = 'Definition:'
+
+# Results texts
+CARD_GUESS_CORRECT = "Correct!"
+CARD_GUESS_INCORRECT = 'Wrong. The right answer is "&".'
+CARD_GUESS_INCORRECT_SECONDARY = 'Wrong. The right answer is "&", but your definition is correct for "%"'
+
+# Menu and options
+CARD_MENU_OPTION_ADD = "add"
+CARD_MENU_OPTION_REMOVE = "remove"
+CARD_MENU_OPTION_IMPORT = "import"
+CARD_MENU_OPTION_EXPORT = "export"
+CARD_MENU_OPTION_ASK = "ask"
+CARD_MENU_OPTION_EXIT = "exit"
+CARD_MENU_OPTION_LOG = "log"
+CARD_MENU_OPTION_HARDEST = "hardest card"
+CARD_MENU_OPTION_RESET_STATS = "reset stats"
+
+MENU_OPTIONS = [
+    CARD_MENU_OPTION_ADD,
+    CARD_MENU_OPTION_REMOVE,
+    CARD_MENU_OPTION_IMPORT,
+    CARD_MENU_OPTION_EXPORT,
+    CARD_MENU_OPTION_ASK,
+    CARD_MENU_OPTION_EXIT,
+    CARD_MENU_OPTION_LOG,
+    CARD_MENU_OPTION_HARDEST,
+    CARD_MENU_OPTION_RESET_STATS
+]
